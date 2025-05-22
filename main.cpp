@@ -73,7 +73,7 @@ void printArray(const std::vector<int>& arr, const std::string& label) {
 }
 
 int main() {
-    std::vector<int> base = { 4, 3, 9, 1, 4, 7 };
+    std::vector<int> base = { 7, 5, 8, 3, 1, 4, 7 };
 
     BubbleSortStrategy bubble;
     QuickSortStrategy quick;
